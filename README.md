@@ -6,3 +6,4 @@ HOPIA is a meme coin on the Solana blockchain, created as a tribute to my parent
 
 All rights reserved — not for commercial use without permission.
 
+
